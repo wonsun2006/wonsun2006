@@ -17,6 +17,6 @@
 ### Databases
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 
-### Get in Touch
+## Get in Touch
 <a href="mailto:wonsun2006@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:wonsun2006@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/원선-방-260779266"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> 
